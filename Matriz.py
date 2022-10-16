@@ -20,3 +20,6 @@ class Matriz():
                 num=int(input("ingrese sus numeros: "))
                 matriz[i].append(num)
         return matriz
+def saludo():
+    print("hola")
+saludo()
